@@ -1,1 +1,3 @@
 # OBSIDIAN
+
+for obsidian theme
